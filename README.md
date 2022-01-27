@@ -11,3 +11,6 @@
         
 3. ACF and PACF
 4. How to choose the order of ARIMA(p,d,q terms) for Stationary case and (P,D,Q) and m terms for Seasonal case
+
+Build ARIMA Model
+Build SARIMA Model
